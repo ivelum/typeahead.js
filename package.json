@@ -30,7 +30,7 @@
     }
   ],
   "dependencies": {
-    "jquery": ">=1.7 <2"
+    "jquery": "~1"
   },
   "devDependencies": {
     "chai": "^1.9.1",
